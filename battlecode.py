@@ -1,6 +1,5 @@
 import discord
 from dice import diceroll as die
-from dotenv import load_dotenv
 import sys
 import asyncio
 import random

@@ -1,11 +1,14 @@
-import discord
-from dialoguecompiler import compiler as dialogue
-from battlecode import battle as battle
-import datetime, time
-import os
-import sys
 import asyncio
+import datetime
+import os
 import shutil
+import sys
+import time
+
+import discord
+
+from battlecode import battle as battle
+from dialoguecompiler import compiler as dialogue
 
 intents = discord.Intents.all()
 
@@ -35,7 +38,7 @@ async def on_ready():
     channel = bot.get_channel(905430483305897985)
     await channel.send("Restarted!")
     print('Connected!')
-    print(discord.__version__)
+    print(f"Py-Cord version: {discord.__version__}")
     global start_time
     start_time = time.time()
     await bot.wait_until_ready()
