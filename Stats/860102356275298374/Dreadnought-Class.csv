@@ -1,0 +1,25 @@
+Dreadnought-Class
+
+Class: Cruiser
+"Cost: 35,555,000 credits"
+"Armament: Quad laser cannons 20, Turbolasers 10, Heavy laser cannons 10, Ion cannon 10"
+Length: 600 Meters
+Shields: Rated 1920 SBD
+Hull: Rated 1056 RU
+Manufacturer: Rendili StarDrive
+"Crew: 16,113"
+"Cargo Capacity: 9,000 metric tons"
+"Hyperdrive Rating: Class 4, Updated Class 2"
+Max Acceleration: Unavailable
+MGLT: 13 MGLT
+"Passengers: 3,000 troops"
+Hangar: 12
+"Lore: The Dreadnaught-class heavy cruiser, or simply the Dreadnaught, was a type of capital ship built for planetary occupation and space combat used by the Galactic Republic, Galactic Empire, New Republic, local governments, and various other organizations. It was one of the most ubiquitous ship designs in all of the galaxy."
+"Hull Health: 75,900"
+"Shield Health: 63,000"
+Shield Regen: 75
+"Shield Damage: 10,475"
+"Hull Damage: 10,450"
+Grav Well: 0 
+Boarding Shuttles: 1
+Damage Resistance: 1.30

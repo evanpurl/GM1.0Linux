@@ -1,0 +1,6 @@
+Latest version of Python - 3.10.x
+
+in command prompt, direct to your python install scripts folder, run the following.
+
+pip install discord
+pip install python-dotenv

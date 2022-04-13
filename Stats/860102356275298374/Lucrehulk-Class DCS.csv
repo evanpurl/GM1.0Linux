@@ -1,0 +1,25 @@
+Lucrehulk-Class DCS
+
+"Class: Battle Cruiser"
+"Cost: NA"
+"Armament: 42, Quad Turbolaser Batteries"
+"Length: 2,425 Meters"
+"Shields: Equipped"
+"Hull: NA"
+"Manufacturer: Hoersch-Kessel Drive, Inc."
+"Crew: 175"
+"Cargo Capacity: 4,000,000 metric tons"
+"Hyperdrive Rating: 2.0, 10.0, backup hyperdrive"
+"Max Acceleration: 300 g"
+"MGLT: NA"
+"Passengers: 130,000"
+"Hangar: 1,500"
+"Lore: The Lucrehulk-class Droid Control Ship was one of the many warships used by the Trade Federation and the Separatist Navy, and arguably the most important weapon in their arsenals. Droid Control Ships were used to coordinate battle droid armies."
+"Hull Health: 1,361,250"
+"Shield Health: 907,500"
+Shield Regen: 200
+"Shield Damage: 37,550"
+"Hull Damage: 24,255"
+Grav Well: 0 
+Boarding Shuttles: 1
+Damage Resistance: 1.05

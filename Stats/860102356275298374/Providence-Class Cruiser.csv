@@ -1,0 +1,25 @@
+Providence-Class Cruiser
+
+Class: Cruiser
+"Cost: 125,000,000"
+"Armament: 14, quad turbolasers, 34, laser cannons, 14, ion cannons, 12, flak guns, 102, proton torpedo launchers, 10 tractor beams"
+"Length: 1,088 Meters"
+Shields: NA
+Hull: NA
+"Manufacturer: Rendili Stardrive, FDVC, Pammant Docks"
+"Crew: 22,350"
+"Cargo Capacity: 29,000 metric tons"
+Hyperdrive Rating: Hyperdrive
+Max Acceleration: 0 g
+MGLT: 0 MGLT
+"Passengers: 48,247"
+"Hangar: 400"
+Lore: Some long paragraph
+"Hull Health: 59,400"
+"Shield Health: 66,000"
+Shield Regen: 75
+"Shield Damage: 10,500"
+"Hull Damage: 12,075"
+Grav Well: 1 
+Boarding Shuttles: 1
+Damage Resistance: 1.30

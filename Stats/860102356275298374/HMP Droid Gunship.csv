@@ -1,0 +1,25 @@
+HMP Droid Gunship
+
+Class: Gunship
+"Cost: 60,000"
+"Armament: 2, Twin laser cannons, 1, laser cannon, 2, Light laser cannons, 2, missile launchers"
+Length: 12.3 Meters
+Shields: equiped
+Hull: Equiped
+Manufacturer: Baktoid Fleet Ordnance
+Crew: 0
+Cargo Capacity: 12 battledroids
+Hyperdrive Rating: N/A
+Max Acceleration: 100 g
+MGLT: 50 MGLT
+Passengers: 0
+Hangar: 0
+"Lore: The HMP (Heavy Missile Platform) droid gunship, often referred to as "droid gunship," "Separatist gunship," or "HMP Predator," was a heavily-shielded aerial missile platform"
+"Hull Health: 7841"
+"Shield Health: 12100"
+Shield Regen: 50
+"Shield Damage: 2199"
+"Hull Damage: 2111"
+Grav Well: 0
+Boarding Shuttles: 1
+Damage Resistance: 6.2
