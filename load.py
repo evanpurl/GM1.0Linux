@@ -4,7 +4,7 @@ from discord_webhook import DiscordWebhook
 import psutil
 
 webhook = DiscordWebhook(
-    url='https://discord.com/api/webhooks/961038648457973862/102W7IJ4e_y0Z_T_RJcl2blZH2uZJA1DMHZtBYtRnQPKB-1kHorxXrjnVZlIujAWql1O')
+    url='')
 
 while True:
     load1, load5, load15 = psutil.getloadavg()
